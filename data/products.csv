@@ -1,0 +1,6 @@
+product_id,product_name,category,price,stock_quantity
+1,Smartphone,Electronics,699.99,50
+2,Laptop,Electronics,1299.50,30
+3,Coffee Maker,Home,99.95,100
+4,Desk Chair,Furniture,199.99,75
+5,Notebook,Stationery,2.99,500
